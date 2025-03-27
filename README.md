@@ -1,5 +1,6 @@
 # Roblox-obfuscator
 [Discord](https://discord.gg/5Ydjgr622V)
+
 📢 Message
 This bot was originally intended as a small project, created out of curiosity and for learning purposes.
 a roblox obfuscator by learning the apis you solved it.
