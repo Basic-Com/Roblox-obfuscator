@@ -1,2 +1,4 @@
 # Roblox-obfuscator
-Roblox obfuscator discord bot js
+You must join the discord server to join!
+[Discord](https://discord.gg/5Ydgr622V)
+
