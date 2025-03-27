@@ -1,4 +1,4 @@
-# Roblox-obfuscator
+# Discord 
 [Discord](https://discord.gg/5Ydjgr622V)
 
 # @everyone Updated - v1.0.0
@@ -18,6 +18,7 @@
 ### **:white_check_mark: Patched IP Logging - `Prevent IP Logging Fixed - Using Basic Blacklist System`**
 - **Fix:** Patched previous issues with IP logging by using a basic blacklist system to block known IP grabbers and trackers.
 
+# Roblox-obfuscator
 
 📢 Message
 This bot was originally intended as a small project, created out of curiosity and for learning purposes.
