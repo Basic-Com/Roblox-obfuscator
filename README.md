@@ -1,6 +1,24 @@
 # Roblox-obfuscator
 [Discord](https://discord.gg/5Ydjgr622V)
 
+# @everyone Updated - v1.0.0
+
+### **:white_check_mark: Lua Script `wearedevs-obfuscator Command` - Powered By WeAreDevs**
+- **Description:** A powerful Lua script obfuscator using the WeAreDevs API.
+
+### **:white_check_mark: Delete Your Source Code Fast - After You Upload Your Txt `Obfuscator Command`**
+- **Feature:** Automatically deletes your source code after the obfuscation process, ensuring security and privacy.
+
+### **:white_check_mark: One of the Best Roblox Obfuscators - With All APIs**
+- **Key Feature:** Full integration with WeAreDevs API, making it one of the most reliable and powerful obfuscators.
+
+### **:white_check_mark: Added Anti Command Blacklist/Anti IP Logging on Your Scripts - `else that script gonna be public for everyone to see`**
+- **Improvement:** Prevents unauthorized IP logging and ensures that your scripts remain private and secure.
+
+### **:white_check_mark: Patched IP Logging - `Prevent IP Logging Fixed - Using Basic Blacklist System`**
+- **Fix:** Patched previous issues with IP logging by using a basic blacklist system to block known IP grabbers and trackers.
+
+
 📢 Message
 This bot was originally intended as a small project, created out of curiosity and for learning purposes.
 a roblox obfuscator by learning the apis you solved it.
