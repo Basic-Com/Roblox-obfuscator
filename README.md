@@ -9,4 +9,5 @@ a roblox obfuscator by learning the apis you solved it.
 This bot project is created for educational and informational purposes only. It is not intended for any malicious use, unethical activities, or violations of any platform’s terms of service. The developers hold no responsibility for misuse of this bot. Use it responsibly and within legal guidelines.
 
 ![Description](https://media.discordapp.net/attachments/1350346771917832215/1354741786421104640/image.png?ex=67e6651b&is=67e5139b&hm=686669e7e7c4d9b5b253c0d730273049ed4dd86212fc9235aad59a5f052369d3&=&format=webp&quality=lossless&width=354&height=282)
-![Description](https://media.discordapp.net/attachments/1350346771917832215/1354756004939694101/image.png?ex=67e67259&is=67e520d9&hm=2534f40b28718fd784e47fc3402deb4ba8223f3dde147dbb36224096e58c94ba&=&format=webp&quality=lossless&width=804&height=44)
+
+
