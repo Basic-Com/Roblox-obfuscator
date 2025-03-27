@@ -36,21 +36,8 @@ for (const folder of commandFolders) {
     }
 }
 
-client.once('ready', () => {
-    console.log(`✅ Logged in as ${client.user.tag}!`);
-
-    // Set bot to Do Not Disturb (DND) status
-    client.user.setPresence({
-        status: 'dnd', // 'online', 'idle', 'dnd', 'invisible'
-        game: {
-            name: '!help -t Lua Obfuscator 👀', // Custom status text
-            type: 3 // Type 3 represents "Watching"
-        }
-    });
-});
-
 client.on('messageCreate', async (message) => {
-    if (!message.content.startsWith('!') || message.author.bot) return;
+    if (!message.content.startsWith(process.env.PREFIX) || message.author.bot) return;
 
     const args = message.content.slice(1).split(/ +/);
     const commandName = args.shift().toLowerCase();
